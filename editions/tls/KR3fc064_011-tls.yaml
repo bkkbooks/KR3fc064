@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:318c608eb44b70a996b14d26659220b9fbfb41a3e57069ad59a0cde60c458edf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/32
+seq: 32
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測遠第二法人在甲測乙而兩旁無餘地可作正方角則任指一可測之地如丁作乙甲丁鋭角形借句股尺重測之先測于丁置尺右角齊丁左邊平甲窺管指乙而出于庚以墨作線記之次測于甲置尺即用前尺左角齊甲右邊平丁窺管指乙而出于辛亦以墨作線記之而庚辛兩線相遇于壬得壬甲丁小鋭角形則小丁甲當大丁甲而丁壬當丁乙甲壬當甲乙矣平面測遠鋭角形
+  hash: sha256:75e9ec42e9b073cf60edc691dae94d044f8adf08ed24fbe12a5a39d1ccc31585
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:36bb0a47762c0ba9d83355d9e4a950ff3a704b626ac4e24cfe1e9acdc74d27c2

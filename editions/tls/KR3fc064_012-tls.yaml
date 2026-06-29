@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/12
+seq: 12
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 版聯于竿以支片支之尺角用目處以窺管之針納于矩角之小管以指所測之物而窺之用自處横置法所測之度小于所知之度則是以股測句也則横置其尺測度如子丑知度如丑寅
+  hash: sha256:f18e0229376cc826fa8c92fc76b91908da920624b5f910b6c8b39666a542a569
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:51c32e6b2aa3d9313633223b1e13916b2a48e506ed4e845345383ebfcc0be79d

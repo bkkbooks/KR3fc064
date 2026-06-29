@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測高第二法山頂乙山頂之塔甲知戊丁而欲測甲乙及乙丁之高則于戊置尺以窺管指乙指甲俱以墨作線次數戊丁之度得戊丙次從丙作直線為壬癸丙小線蓋戊丙當戊丁則癸丙當乙丁而壬癸當甲乙矣測山上之兩高
+  hash: sha256:5b1623dfdd6fee9920a23859d1b0fb782ebf55e2a8fe16c7cfe5ff8a2bc3dd3b
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:310df2ea881205095de1913c7fd31fd474911208b44b3a25f9acacad41bf4154

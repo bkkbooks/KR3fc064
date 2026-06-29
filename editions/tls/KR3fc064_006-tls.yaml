@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/6
+seq: 6
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 造尺尺以堅木爲之或範銅其形爲帶縱方卽句股相乘之羃積斜剖之爲兩句股句股爲正方角故尺四角務取極方凡測物必用正方角否則不得眞度下測遠第二圖銳角形特借測耳非尺之本用也厚寸許廣狹長短無定度面界縱横各方線愈細則測愈密尺厚處每邊施母螺轉孔各二孔距度每邊必等所以受托版之箝與斜測時納窺管之背之釘者也尺角尺角四每角凹入分許以受矩角之針管見下圖矩角以銅爲之厚分廣各寸高視其尺之厚內隅磬折處綴銅管如甲管孔細如髮欲其受針也針也者窺管之針也角之面各作母螺轉孔如丑孔洞于尺角之
+  hash: sha256:3ecb223752002df9cbdd4311be0493659931f740d52739b7f86de5c8c9f5e9ff
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:cc5fff7c35ddeba476ab0afa2090088c48ab4e856c3ce396a9cd352637d8cd29

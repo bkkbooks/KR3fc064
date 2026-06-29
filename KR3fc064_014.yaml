@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/14
+seq: 14
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直置法所測之度大于所知之度則是以句測股也則直置其尺斜置法或不欲正測或不能正測則于窺管背二小釘入尺邊孔目從管窺所測之物帶尺上下移就之次于尺之昂角以線鎮重物下垂俟定即得真度矣案前橫直置尺二法俱以管當弦此法以垂線當弦前二法尺定而弦移此則弦定而尺移其理同也
+  hash: sha256:e9f333193c05452964350063b135955decc918aa4c08a37ec29dfbdeebba486a
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:ca17654071db5cdbd822b830d731e95dfc45422434a43ae96d85a2872534066c

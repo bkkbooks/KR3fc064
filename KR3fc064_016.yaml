@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/16
+seq: 16
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又按橫置直置二法為初學設便省記耳其實非有二理不必泥也
+  hash: sha256:69aea08ef347eb17da968cf4f9729b0df8ffa0281dc8e80ddd7c3b93bd151e54
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:c1ff408d0bcf0b78929ce913c59a75835181ed71340213c7ddbfdf46510feb74

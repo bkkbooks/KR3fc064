@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/18
+seq: 18
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測高第一法知乙丙之距而測甲乙之高置尺以角齊丙邊平乙窺管從丙指以墨作斜線識之乃自丙甲數至癸令丙癸之度如丙乙之距或兩倍或三倍或以分當丈或以二分當丈或以三分當丈次作壬癸小線壬癸之度即甲乙之矩也蓋以丙癸當丙乙則壬癸即當甲乙自平測高
+  hash: sha256:2e2aa4109af76455ae709dac87fc07ffebab115cdb95815d14826335fe38b136
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:9fda781bfeb1711b961ada232d31c66637c5deb4c2b809320ed3430c13ca1711

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/38
+seq: 38
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測遠第五法第六法重測欲測乙甲之遠而不知戊甲之廣則用重測先測于丁線出辛後測于戊線出庚次作壬癸丙横線以壬癸當丁戊則癸丙當戊甲而戊丙當乙甲矣欲測戊甲之遠而不知乙甲之高則借乙之高以爲據而重測之先後兩測法同上測不知廣之遠借不知之高測遠此法巧妙絶倫
+  hash: sha256:7a385ff33d5ce86c4a5a045c40b6c52079b7724ea836b7aa7f52b6a5542a1ed9
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:660eeba9e90236d6dc760a1b521b3817cde54501a05719612a38ae43d8e26dca

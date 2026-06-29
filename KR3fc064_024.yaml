@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/24
+seq: 24
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測高第四法人在山頂甲欲知本山甲丁之高伹知山腳平處有物如戊距山腳丁若干度乃置尺于尺上作壬癸線以當戊丁則己壬當甲丁從高測高又謂之因遠測高
+  hash: sha256:3529b4710353f1c7d7c6905c4373f96228289ecb49873473d87ba5755b4555c2
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:58095f322c48f7cff63255cf97c784902057ab154778bdf4d2fe302a0b149e74

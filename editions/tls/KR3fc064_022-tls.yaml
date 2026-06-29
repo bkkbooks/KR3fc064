@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測高第三法重測欲測甲丁之高而不知已丁之遠則用重測先測人立于己置尺角齊己窺管指甲而出于庚後測退立于戊置尺角齊于戊窺管指甲而出于辛庚辛兩線俱以墨記之乃于兩線中以戊己矩數約之作壬癸小線平引之至丙蓋壬癸當戊已則壬丙當己丁而丙戊當甲丁矣測不知遠之高
+  hash: sha256:709d54b2cd17cd53690e5351188885756dce1aeb862371a0771a8fd46145d540
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:0624196763ff1fe3e3787782a54866ba1a4397d3e5e6b99bcac001ad6ae71383

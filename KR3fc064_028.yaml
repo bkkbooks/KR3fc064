@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測高第六法山頂甲山腳丁人立于甲欲測甲丁之高而無可據之遠但山下與丁平行處有戊有已知其相距之度則于甲置尺測之以窺管指戊指已俱以墨作線次于子丑小線當戊已平行之至乙則丑乙當已丁而甲乙當甲丁矣借山下兩遠測本山之高
+  hash: sha256:60feb3e1851b3006f5de5b6d9090104a723fc82794b4947f326341efe3360dac
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:19f9e12f3baf9b193da433314e11716f7d5271e59bd36c422ea900ad2227757c

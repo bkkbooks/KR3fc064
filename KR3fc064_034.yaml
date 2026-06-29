@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/34
+seq: 34
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測遠第三法不知甲乙之遠而知丁乙之高置尺于甲測之作壬癸線以當丁乙則甲癸當甲乙用高測遠
+  hash: sha256:b88780d2439268e0f1accf238909ed2d294e93ce9f993910dfbc393b065b02e3
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:7ac776f7d190d9f9d943c716611c5a17733babc9078b1856f6a3eb37943cfb60

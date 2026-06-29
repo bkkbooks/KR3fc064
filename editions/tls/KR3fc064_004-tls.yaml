@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 指諸掌猶此志也皆不朽業也五慫惥付梓衡不自信命兒輩鈔存之自僃省覽且爲家塾啓蒙之一助云六九軒主人劉衡時嘉慶十二年四月朔
+  hash: sha256:81c031d183504b95903d61a0e334a92309f1e86eec0280dab9c782df212759f1
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:f15ee03ffd87f6db54694d706dda345a0924607679fee2909f12a516ab31c47c

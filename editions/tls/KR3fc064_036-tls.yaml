@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc064/tls/v1/juan/36
+seq: 36
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 句股尺測遠第四法欲測甲乙之遠而乙之根爲物所掩如山麓有小阜或爲林木蔽阻之類難得眞距若用兩測甲外又無餘地惟望有高如戊爲山顚上有石臺臺上有塔如丁丁戊之高原有定距借以爲用從甲測丁又測戊乃作壬癸丙小直線以壬癸當丁戊則癸丙如戊乙而甲丙如甲乙矣用高上之高測遠
+  hash: sha256:44e9ac89ff9f69a45f163e7be8368c7dbd685154416116f38f03a0a97651a924
+metadata:
+  title: 勾股尺測量新法
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc064.xml
+hash: sha256:d0ec35a774e69339192f5aec24f6c8acf6eff5db6ecf486fcecfaec543534c1b
