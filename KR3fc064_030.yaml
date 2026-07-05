@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 句股尺測遠第一法與測高第一法同乙為河彼岸甲為河此岸欲測河距乙甲之遠從甲量至丁置尺于丁窺管指乙次從丁數至癸取丁癸之度如丁甲之數乃從癸至壬作小線則壬癸即乙甲也而丁壬亦即丁乙平面測遠又謂之知廣測遠
-  hash: sha256:c9e3207dece1f6d8cbafb23f24f823cc3f3707f7a4112f5795fbae8ad5602368
+  text: 句股尺測遠第一法與測高第一法同乙爲河彼岸甲爲河此岸欲測河距乙甲之遠從甲量至丁置尺于丁窺管指乙次從丁數至癸取丁癸之度如丁甲之數乃從癸至壬作小線則壬癸卽乙甲也而丁壬亦卽丁乙平面測遠又謂之知廣測遠
+  hash: sha256:a5fca4dc001da81694bb8616eafdc369ff33f9cbbf4f71aaba32e74211f61f1e
 metadata:
   title: 勾股尺測量新法
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc064.xml
-hash: sha256:b1cc5241c970b813b3f82ba7911ff7085bda2dbbe673c370a6ce5463de1f72ec
+hash: sha256:89639850ec998f5aa81f7e8100ac2f08113d84a960535be478da66d952a7e55f
